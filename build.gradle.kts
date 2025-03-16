@@ -4,7 +4,7 @@ plugins {
     java
     idea
     eclipse
-    id("org.springframework.boot")
+    id("org.springframework.boot") version "3.4.3"
     id("io.spring.dependency-management")
     id("com.github.ben-manes.versions")
     id("com.diffplug.spotless")
